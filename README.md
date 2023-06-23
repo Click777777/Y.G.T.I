@@ -5,6 +5,8 @@
 HOME ,ABOUT ,COURSE ,ACTIVITY and CONTACT</li>
 </ul><ul>
 <li>Being my first project, I encountered several challenges that ultimately provided me with valuable learning experiences. For this particular project, I opted to utilize pure CSS and JavaScript instead of relying on any frameworks or libraries. This decision allowed me to delve deeper into the intricacies of these technologies and gain a better understanding of their functionalities. Despite the initial difficulties, I embraced these challenges as opportunities for growth and skill development.</li>
+</ul><ul>
+<li>Project Demo: https://click777777.github.io/Y.G.T.I/</li>
 </ul><h2>Technologies Used</h2>
 <hr><ul>
 <li>HTML</li>
